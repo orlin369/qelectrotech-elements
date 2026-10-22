@@ -39,31 +39,39 @@ Nominal dimensions and an illustrative outline: corner radii, screw pitch and re
     <description>
         <polygon closed="true" x1="-84" y1="-74" x2="84" y2="-74" x3="84" y3="45.88" x4="55.88" y4="74" x5="-55.88" y5="74" x6="-84" y6="45.88" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGrayBlack" />
         <rect x="-78" y="-68" width="156" height="136" rx="0" ry="0" antialias="true" style="line-style:dashed;line-weight:thin;filling:none;color:HTMLGraySilver" />
-        <line x1="-76" y1="48" x2="76" y2="48" end1="none" end2="none" length1="1.5" length2="1.5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySilver" />
-        <circle x="-68.8333" y="42.5" diameter="11" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayBlack" />
-        <circle x="-43.5" y="42.5" diameter="11" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayBlack" />
-        <circle x="-11.9167" y="45.25" diameter="5.5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayBlack" />
-        <circle x="-18.9167" y="45.25" diameter="5.5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayBlack" />
-        <circle x="13.4167" y="45.25" diameter="5.5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayBlack" />
-        <circle x="6.4167" y="45.25" diameter="5.5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayBlack" />
-        <circle x="32.5" y="42.5" diameter="11" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayBlack" />
-        <circle x="57.8333" y="42.5" diameter="11" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayBlack" />
+        <line x1="-60" y1="48" x2="60" y2="48" end1="none" end2="none" length1="1.5" length2="1.5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySilver" />
+        <circle x="-55.5" y="42.5" diameter="11" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayBlack" />
+        <line x1="-50" y1="48" x2="-50" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySilver" />
+        <circle x="-35.5" y="42.5" diameter="11" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayBlack" />
+        <line x1="-30" y1="48" x2="-30" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySilver" />
+        <circle x="-2.75" y="45.25" diameter="5.5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayBlack" />
+        <line x1="0" y1="48" x2="0" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySilver" />
+        <circle x="-12.75" y="45.25" diameter="5.5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayBlack" />
+        <line x1="-10" y1="48" x2="-10" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySilver" />
+        <circle x="17.25" y="45.25" diameter="5.5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayBlack" />
+        <line x1="20" y1="48" x2="20" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySilver" />
+        <circle x="7.25" y="45.25" diameter="5.5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayBlack" />
+        <line x1="10" y1="48" x2="10" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySilver" />
+        <circle x="24.5" y="42.5" diameter="11" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayBlack" />
+        <line x1="30" y1="48" x2="30" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySilver" />
+        <circle x="44.5" y="42.5" diameter="11" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGrayBlack" />
+        <line x1="50" y1="48" x2="50" y2="80" end1="none" end2="none" length1="1.5" length2="1.5" antialias="true" style="line-style:normal;line-weight:thin;filling:none;color:HTMLGraySilver" />
         <text x="-21.127" y="-29.6" text="EM Gen4" rotation="0" color="#000000" font="Liberation Sans,7.4,-1,5,75,0,0,0,0,0" />
         <text x="-15.915" y="-8.88" text="back view" rotation="0" color="#5b6b7a" font="Liberation Sans,5.4,-1,5,50,0,0,0,0,0" />
         <text x="-19.2393" y="8.88" text="42 × 37 mm" rotation="0" color="#5b6b7a" font="Liberation Sans,5.4,-1,5,50,0,0,0,0,0" />
-        <text x="-66.222" y="38" text="N" rotation="0" color="#000000" font="Liberation Sans,6,-1,5,50,0,0,0,0,0" />
-        <text x="-40.2246" y="38" text="L" rotation="0" color="#000000" font="Liberation Sans,6,-1,5,50,0,0,0,0,0" />
-        <text x="-16.446" y="38" text="IA" rotation="0" color="#000000" font="Liberation Sans,6,-1,5,50,0,0,0,0,0" />
-        <text x="8.8874" y="38" text="IB" rotation="0" color="#000000" font="Liberation Sans,6,-1,5,50,0,0,0,0,0" />
-        <text x="36.8887" y="38" text="I" rotation="0" color="#000000" font="Liberation Sans,6,-1,5,50,0,0,0,0,0" />
-        <text x="60.222" y="38" text="O" rotation="0" color="#000000" font="Liberation Sans,6,-1,5,50,0,0,0,0,0" />
-        <terminal x="-63.3333" y="74" name="N" orientation="s" type="Outer" uuid="{419130e0-fce6-5e40-955e-41f038164184}" />
-        <terminal x="-38" y="74" name="L" orientation="s" type="Outer" uuid="{a64e0706-5972-5f63-827d-4f06ba1d58b7}" />
-        <terminal x="-9.1667" y="74" name="IA.1" orientation="s" type="Outer" uuid="{9d471146-c1bd-5f9d-933f-c0d5d99f5bad}" />
-        <terminal x="-16.1667" y="74" name="IA.2" orientation="s" type="Outer" uuid="{7a18910e-fa6f-5b77-b86b-908c268a53df}" />
-        <terminal x="16.1667" y="74" name="IB.1" orientation="s" type="Outer" uuid="{1409002c-da85-5925-a639-583b42a34411}" />
-        <terminal x="9.1667" y="74" name="IB.2" orientation="s" type="Outer" uuid="{eeb9d7d8-2c87-535c-ad97-4e01ba3c22ff}" />
-        <terminal x="38" y="74" name="I" orientation="s" type="Outer" uuid="{cb2fe237-616d-54e4-9410-b2d833b4cb2e}" />
-        <terminal x="63.3333" y="74" name="O" orientation="s" type="Outer" uuid="{0dc57285-2b77-5333-8334-2edfd25b1b93}" />
+        <text x="-52.8887" y="38" text="N" rotation="0" color="#000000" font="Liberation Sans,6,-1,5,50,0,0,0,0,0" />
+        <text x="-32.2246" y="38" text="L" rotation="0" color="#000000" font="Liberation Sans,6,-1,5,50,0,0,0,0,0" />
+        <text x="-13.7793" y="38" text="IA" rotation="0" color="#000000" font="Liberation Sans,6,-1,5,50,0,0,0,0,0" />
+        <text x="6.2207" y="38" text="IB" rotation="0" color="#000000" font="Liberation Sans,6,-1,5,50,0,0,0,0,0" />
+        <text x="28.8887" y="38" text="I" rotation="0" color="#000000" font="Liberation Sans,6,-1,5,50,0,0,0,0,0" />
+        <text x="46.8887" y="38" text="O" rotation="0" color="#000000" font="Liberation Sans,6,-1,5,50,0,0,0,0,0" />
+        <terminal x="-50" y="80" name="N" orientation="s" type="Outer" uuid="{419130e0-fce6-5e40-955e-41f038164184}" />
+        <terminal x="-30" y="80" name="L" orientation="s" type="Outer" uuid="{a64e0706-5972-5f63-827d-4f06ba1d58b7}" />
+        <terminal x="0" y="80" name="IA.1" orientation="s" type="Outer" uuid="{9d471146-c1bd-5f9d-933f-c0d5d99f5bad}" />
+        <terminal x="-10" y="80" name="IA.2" orientation="s" type="Outer" uuid="{7a18910e-fa6f-5b77-b86b-908c268a53df}" />
+        <terminal x="20" y="80" name="IB.1" orientation="s" type="Outer" uuid="{1409002c-da85-5925-a639-583b42a34411}" />
+        <terminal x="10" y="80" name="IB.2" orientation="s" type="Outer" uuid="{eeb9d7d8-2c87-535c-ad97-4e01ba3c22ff}" />
+        <terminal x="30" y="80" name="I" orientation="s" type="Outer" uuid="{cb2fe237-616d-54e4-9410-b2d833b4cb2e}" />
+        <terminal x="50" y="80" name="O" orientation="s" type="Outer" uuid="{0dc57285-2b77-5333-8334-2edfd25b1b93}" />
     </description>
 </definition>
